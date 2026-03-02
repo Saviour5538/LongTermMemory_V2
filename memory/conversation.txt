@@ -1,0 +1,17 @@
+#Test ADD (New Information)#
+Hi! My name is Adarsh, I'm 22 years old and I study computer science.
+I love eating biryani, it's my favourite food.
+I recently started going to the gym every morning.
+#Test NOOP (Repeated Information)#
+Just so you know, I'm Adarsh and I'm a CS student.
+My favourite food is biryani.
+#Test UPDATE (Changed Information)#
+I switched from gym to yoga last week, I quit the gym completely
+Actually I prefer pasta over biryani these days.
+#Test DELETE (Contradicted Information)#
+I stopped going to yoga too, I don't exercise at all anymore.
+I moved out of my parents' house, I live alone now.
+# Test Memory Recall (Assistant Using Memories)#
+What do you know about me?
+Can you suggest a meal I'd enjoy?
+What hobbies should I pick up?
